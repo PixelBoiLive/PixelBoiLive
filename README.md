@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PixelBoiLive
+- 👀 I’m interested in Discord.js and Python!
+- 🌱 I’m currently learning JavaScript and Python!
+- 📫 How to reach me: Either through Discord (PixelBoi#0861) or email (pixelboibusiness@gmail.com)
